@@ -1,3 +1,17 @@
+---
+
+## 👩‍💻 About Me  
+
+I am a security and risk management professional with a strong focus on the **automotive industry**.  
+My experience spans **governance, compliance, cybersecurity, and supply chain risk**, enabling me to assess and mitigate challenges unique to a rapidly evolving sector.  
+
+Through projects like this one, I demonstrate how structured tools — **risk registers, heatmaps, and executive-ready summaries** — can be used to safeguard operations, protect brand reputation, and support innovation in connected and electric vehicles.  
+
+I am passionate about helping the automotive sector navigate risks such as **cybersecurity threats, product recalls, and global supply chain constraints**.  
+By combining technical expertise with business insight, I aim to contribute to building **safer, more resilient, and innovative automotive solutions** for the future of mobility.  
+
+---
+
 # 🚗 Automotive Industry Risk Register (Portfolio Project)
 
 This portfolio project demonstrates how I design, assess, and communicate enterprise risks 
